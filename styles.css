@@ -1,9 +1,11 @@
-p.block-heading {
+.block-heading p {
   text-align: center;
 }
 
-h2.block-heading {
+.block-heading h2{
   color: #3b99e0;
+	text-align: center;
+	
 }
 
 .summary {
