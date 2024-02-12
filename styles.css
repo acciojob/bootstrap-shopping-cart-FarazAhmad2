@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+.text-blue {
+  color: #3b99e0;
+}
+
+.summary {
+  background-color: #f7fbff;
+}
+
+.custom-border-top {
+  border-top: 4px solid #5ea4f3; /* Change 'your_custom_color' to your desired color */
+}
