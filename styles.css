@@ -1,5 +1,8 @@
-/*  your css code here. If applicable */
-.text-blue {
+.block-heading {
+  text-align: center;
+}
+
+h2.block-heading {
   color: #3b99e0;
 }
 
